@@ -1,5 +1,5 @@
 # profile
-#REGION
+# REGION
 Anhui Hefei USTC
-#MAJOR
+# MAJOR
 EE
